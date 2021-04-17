@@ -9,8 +9,8 @@
 <a href="https://github.com/jarun/nnn/blob/master/LICENSE"><img src="https://img.shields.io/badge/©-BSD%202--Clause-important.svg?maxAge=2592000" alt="License" /></a>
 </p>
 
-<p align="center"><a href="https://asciinema.org/a/353811"><img src="https://i.imgur.com/InHB5DB.png" /></a></p>
-<p align="center"><i>icons and colors asciicast</i></p>
+<p align="center"><a href="https://s4.gifyu.com/images/previewtuidemo.gif"><img src="https://i.imgur.com/q8J5tzk.png"></a></p>
+<p align="center"><i>nnn in action</i></p>
 
 <h3 align="center">[<a
 href="https://github.com/jarun/nnn#features">Features</a>] [<a
@@ -149,6 +149,7 @@ It runs smoothly on the Pi, [Termux](https://www.youtube.com/embed/AbaauM7gUJw) 
 6. Use option `-x` to copy selected file paths to system clipboard and show notis on `cp`, `mv`, `rm` completion.
 7. For a CLI-only environment, customize and use plugin [`nuke`](https://github.com/jarun/nnn/blob/master/plugins/nuke) with option `-c` (overrides `-e`).
 8. Bid `ls` goodbye! `alias ls='nnn -de'` :sunglasses:
+9. Visit the [Live previews](https://github.com/jarun/nnn/wiki/Live-previews) and [Troubleshooting](https://github.com/jarun/nnn/wiki/Troubleshooting) Wiki pages.
 
 Don't memorize! Arrows (or <kbd>h</kbd> <kbd>j</kbd> <kbd>k</kbd> <kbd>l</kbd>), <kbd>/</kbd>, <kbd>q</kbd> suffice. <kbd>Tab</kbd> creates and/or cycles contexts. <kbd>?</kbd> lists shortcuts.
 
@@ -190,6 +191,7 @@ Don't memorize! Arrows (or <kbd>h</kbd> <kbd>j</kbd> <kbd>k</kbd> <kbd>l</kbd>),
 - [KlzXS](https://github.com/KlzXS)
 - [Léo Villeveygoux](https://github.com/leovilok)
 - [Maxim Baz](https://github.com/maximbaz)
+- [Sijmen J. Mulder](https://github.com/sjmulder)
 - [Todd Yamakawa](https://github.com/toddyamakawa)
 - and other contributors
 
